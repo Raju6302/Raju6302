@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working as a Full Stack developer for Conneqt Digital
+🔭 I’m currently working as a Full Stack developer for Digitide
 
 
 # 💻 Tech Stack:
